@@ -1,0 +1,7 @@
+<<---Raihan-Ahmad-Fadilah--->>
+      <<---20110348--->>
+
+1. Registrasi terlebih dulu, lalu login dengan email dan password
+2. ketika sudah login klik di navbar yang welcome.... Lalu pilih My Dashboard
+3. lalu di dashboard bisa mengakses Data Dosen, Mahasiswa, Program Studi, Mata Kuliah
+
